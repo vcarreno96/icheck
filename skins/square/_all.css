@@ -256,6 +256,9 @@
     .icheckbox_square-aero.hover {
         background-position: -24px 0;
     }
+    .icheckbox_square-aero.focus {
+        outline: black dotted 1px;
+    }    
     .icheckbox_square-aero.checked {
         background-position: -48px 0;
     }
